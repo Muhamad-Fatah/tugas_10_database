@@ -1,0 +1,7 @@
+1.Jalankan MySQL server di xampp
+2.Masuk kedalam folder bin mysql : cd c:/xampp/mysql/bin
+3.Jalankan client server : MYSQL -u root
+4.Create database importdata;
+5.use importdata;
+
+6.SOURCE c://xampp//data_tugas/buahbuahan.sql;
